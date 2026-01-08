@@ -1,0 +1,5 @@
+{
+  "name": "HealthUp Pharmacovigilance Dashboard",
+  "description": "A safety-first dashboard for pharmacovigilance follow-ups, designed to identify missing safety information and streamline case completion.",
+  "requestFramePermissions": []
+}
